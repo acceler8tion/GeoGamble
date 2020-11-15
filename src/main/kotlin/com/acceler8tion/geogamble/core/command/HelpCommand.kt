@@ -1,9 +1,9 @@
 package com.acceler8tion.geogamble.core.command
 
-import com.acceler8tion.geogamble.Bot
 import com.acceler8tion.geogamble.api.service.Command
 import com.acceler8tion.geogamble.api.service.PaginatedMessage
 import com.acceler8tion.geogamble.api.service.annotation.*
+import com.acceler8tion.geogamble.core.Bot
 import net.dv8tion.jda.api.EmbedBuilder
 import net.dv8tion.jda.api.MessageBuilder
 import net.dv8tion.jda.api.entities.Message

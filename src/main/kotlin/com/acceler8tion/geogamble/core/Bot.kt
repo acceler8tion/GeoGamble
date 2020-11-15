@@ -1,4 +1,4 @@
-package com.acceler8tion.geogamble
+package com.acceler8tion.geogamble.core
 
 import com.acceler8tion.geogamble.api.service.Command
 import com.acceler8tion.geogamble.api.service.CommandManager

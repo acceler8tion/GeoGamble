@@ -1,4 +1,4 @@
-package com.acceler8tion.geogamble
+package com.acceler8tion.geogamble.core
 
 import com.acceler8tion.geogamble.api.listener.CommonListener
 import com.acceler8tion.geogamble.api.util.AttributeReader
